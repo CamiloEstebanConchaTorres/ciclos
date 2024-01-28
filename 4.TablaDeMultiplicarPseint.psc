@@ -31,7 +31,7 @@ Algoritmo TablaDeMultiplicar
             Escribir("   ");
             Escribir(resultado);
         FinPara
-        Escribir("");  // Salto de línea después de cada fila
+        Escribir("");
     FinPara
 	
 FinAlgoritmo
